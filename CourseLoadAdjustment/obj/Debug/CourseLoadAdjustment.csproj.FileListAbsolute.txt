@@ -1,0 +1,14 @@
+C:\Users\leoha\source\repos\CourseLoadAdjustment\CourseLoadAdjustment\bin\Debug\CourseLoadAdjustment.exe.config
+C:\Users\leoha\source\repos\CourseLoadAdjustment\CourseLoadAdjustment\bin\Debug\CourseLoadAdjustment.exe
+C:\Users\leoha\source\repos\CourseLoadAdjustment\CourseLoadAdjustment\bin\Debug\CourseLoadAdjustment.pdb
+C:\Users\leoha\source\repos\CourseLoadAdjustment\CourseLoadAdjustment\obj\Debug\CourseLoadAdjustment.csproj.AssemblyReference.cache
+C:\Users\leoha\source\repos\CourseLoadAdjustment\CourseLoadAdjustment\obj\Debug\MainWindow.baml
+C:\Users\leoha\source\repos\CourseLoadAdjustment\CourseLoadAdjustment\obj\Debug\MainWindow.g.cs
+C:\Users\leoha\source\repos\CourseLoadAdjustment\CourseLoadAdjustment\obj\Debug\App.g.cs
+C:\Users\leoha\source\repos\CourseLoadAdjustment\CourseLoadAdjustment\obj\Debug\CourseLoadAdjustment_MarkupCompile.cache
+C:\Users\leoha\source\repos\CourseLoadAdjustment\CourseLoadAdjustment\obj\Debug\CourseLoadAdjustment.g.resources
+C:\Users\leoha\source\repos\CourseLoadAdjustment\CourseLoadAdjustment\obj\Debug\CourseLoadAdjustment.Properties.Resources.resources
+C:\Users\leoha\source\repos\CourseLoadAdjustment\CourseLoadAdjustment\obj\Debug\CourseLoadAdjustment.csproj.GenerateResource.cache
+C:\Users\leoha\source\repos\CourseLoadAdjustment\CourseLoadAdjustment\obj\Debug\CourseLoadAdjustment.csproj.CoreCompileInputs.cache
+C:\Users\leoha\source\repos\CourseLoadAdjustment\CourseLoadAdjustment\obj\Debug\CourseLoadAdjustment.exe
+C:\Users\leoha\source\repos\CourseLoadAdjustment\CourseLoadAdjustment\obj\Debug\CourseLoadAdjustment.pdb

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leoha\\source\\repos\\CourseLoadAdjustment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF86F7B-D01A-43A5-932E-DEF5BA8F9C2D}|CourseLoadAdjustment\\CourseLoadAdjustment.csproj|c:\\users\\leoha\\source\\repos\\courseloadadjustment\\courseloadadjustment\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBF86F7B-D01A-43A5-932E-DEF5BA8F9C2D}|CourseLoadAdjustment\\CourseLoadAdjustment.csproj|solutionrelative:courseloadadjustment\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBF86F7B-D01A-43A5-932E-DEF5BA8F9C2D}|CourseLoadAdjustment\\CourseLoadAdjustment.csproj|c:\\users\\leoha\\source\\repos\\courseloadadjustment\\courseloadadjustment\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CBF86F7B-D01A-43A5-932E-DEF5BA8F9C2D}|CourseLoadAdjustment\\CourseLoadAdjustment.csproj|solutionrelative:courseloadadjustment\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\leoha\\source\\repos\\CourseLoadAdjustment\\CourseLoadAdjustment\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CourseLoadAdjustment\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\leoha\\source\\repos\\CourseLoadAdjustment\\CourseLoadAdjustment\\MainWindow.xaml",
+              "RelativeToolTip": "CourseLoadAdjustment\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-23T04:16:46.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\leoha\\source\\repos\\CourseLoadAdjustment\\CourseLoadAdjustment\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CourseLoadAdjustment\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\leoha\\source\\repos\\CourseLoadAdjustment\\CourseLoadAdjustment\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CourseLoadAdjustment\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAqwJgAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T04:16:46.541Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
